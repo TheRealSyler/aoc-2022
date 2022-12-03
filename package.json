@@ -1,0 +1,18 @@
+{
+  "name": "aoc-2022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Leonard Grosoli <hileo77@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start:1": "ts-node-dev --respawn src/1.ts",
+    "start:2": "ts-node-dev --respawn src/2.ts",
+    "start:3": "ts-node-dev --respawn src/3.ts"
+  },
+  "dependencies": {
+    "typescript": "^4.9.3"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0"
+  }
+}
