@@ -8,7 +8,8 @@
     "start:1": "ts-node-dev --respawn src/1.ts",
     "start:2": "ts-node-dev --respawn src/2.ts",
     "start:3": "ts-node-dev --respawn src/3.ts",
-    "start:4": "ts-node-dev --respawn src/4.ts"
+    "start:4": "ts-node-dev --respawn src/4.ts",
+    "start:5": "ts-node-dev --respawn src/5.ts"
   },
   "dependencies": {
     "typescript": "^4.9.3"
